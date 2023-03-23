@@ -1,0 +1,185 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+#title {
+    text-align: center;
+    font-size: 500%;
+    margin: 0px;
+    margin-bottom: 1%;
+}
+
+.outerBox {
+    border: 3px solid black;
+    width: 80vh;
+    display: flex;
+    height: 80vh;
+    margin: 0 auto;
+    background-color: #e4e4e4;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding-top: 1%;
+    border-radius: 5px;
+}
+
+.rowOneColOne {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowOneColTwo {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowOneColThree {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowOneColFour {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowTwoColOne {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowTwoColTwo {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowTwoColThree {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowTwoColFour {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowThreeColOne {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowThreeColTwo {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowThreeColThree {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowThreeColFour {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowFourColOne {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rowFourColTwo {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowFourColThree {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rowFourColFour {
+    border: 2px solid black;
+    min-width: 22%;
+    height: 22%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
