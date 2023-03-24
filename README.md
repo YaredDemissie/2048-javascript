@@ -15,14 +15,12 @@ At the moment this code runs without any bugs.
 The code makes it possible to play 2048 in the browser.
 
 ## How to Use?
-1. Clone the repository or download the code the code.
+1. Clone the repository or download the code.
 2. Open the html file by double clicking on the index.html file.
+3. Play the game!
 
 ## Code Style
 Standard
-
-## Code Examples
-**python file.py** or **python3 file.py**
 
 ## Contribute
 You may add more features to the program. For example, the game could have a feature that lets the player know when they have won/lost the game.
